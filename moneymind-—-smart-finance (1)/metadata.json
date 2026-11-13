@@ -1,0 +1,8 @@
+{
+  "name": "MoneyMind — Smart Finance",
+  "description": "Shaxsiy daromad, xarajatlar statistikasi, interaktiv grafiklar, byudjet rejalashtirish va moliyaviy maqsadlar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
